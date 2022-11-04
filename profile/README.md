@@ -17,6 +17,7 @@
   * Player - N/A
   * GM - Content Complete. 1e adventure could use a polish pass to add items and feats. Also need to consider whether we make an AD&D module with the AD&D info, and only leave the 5e info in the 5e module.
 * Arcadia 13
+  * Player - Content complete
 * Arcadia 14
 * Arcadia 15
 * Arcadia 16
