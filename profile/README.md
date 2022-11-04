@@ -7,17 +7,18 @@
 * Arcadia 7 - Review
 * Arcadia 8 - Review
 * Arcadia 9 - In development. KNK updates + extension work
-* Arcadia 10
-  * Player - Complete
+* Arcadia 10 - Ready to Submit. Needs Cover PSD
+  * Player - Complete.
   * GM - Complete
-* Arcadia 11
+* Arcadia 11 - Ready to Submit. Needs Cover PSD
   * Player - Complete
   * GM - Complete
 * Arcadia 12
   * Player - N/A
   * GM - Content Complete. 1e adventure could use a polish pass to add items and feats. Also need to consider whether we make an AD&D module with the AD&D info, and only leave the 5e info in the 5e module.
-* Arcadia 13
-  * Player - Content complete
+* Arcadia 13 - Ready to Submit. Needs Cover PSD
+  * Player - Complete
+  * GM - Complete
 * Arcadia 14
 * Arcadia 15
 * Arcadia 16
