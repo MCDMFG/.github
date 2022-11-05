@@ -20,6 +20,8 @@
   * Player - Complete
   * GM - Complete
 * Arcadia 14
+  * Player - Complete
+  * GM - Not yet started
 * Arcadia 15
 * Arcadia 16
 * Arcadia 17
