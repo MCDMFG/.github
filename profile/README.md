@@ -19,9 +19,9 @@
 * Arcadia 13 - Ready to Submit. Needs Cover PSD
   * Player - Complete
   * GM - Complete
-* Arcadia 14
+* Arcadia 14 - Ready to submit. Needs Cover PSD
   * Player - Complete
-  * GM - Not yet started
+  * GM - Complete
 * Arcadia 15
 * Arcadia 16
 * Arcadia 17
