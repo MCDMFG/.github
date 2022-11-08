@@ -8,27 +8,16 @@
 * Arcadia 8 - Review
 * Arcadia 9 - In development. KNK updates + extension work
 * Arcadia 10 - Ready to Submit. Needs Cover PSD
-  * Player - Complete.
-  * GM - Complete
 * Arcadia 11 - Ready to Submit. Needs Cover PSD
-  * Player - Complete
-  * GM - Complete
 * Arcadia 12 - Ready to submit. Needs Cover PSD
-  * GM - Complete
-  * Adventure - Complete
 * Arcadia 13 - Ready to Submit. Needs Cover PSD
-  * Player - Complete
-  * GM - Complete
 * Arcadia 14 - Ready to submit. Needs Cover PSD
-  * Player - Complete
-  * GM - Complete
-* Arcadia 15
-* Arcadia 16
-* Arcadia 17
-* Arcadia 18
-* Arcadia 19
-* Arcadia 20
-* Arcadia 21
-* Arcadia 22
-* Arcadia 23
-* Arcadia 24
+* Arcadia 15 - Ready to submit. Needs Cover PSD
+* Arcadia 16 - Not yet Started
+* Arcadia 17 - Not yet Started
+* Arcadia 18 - Not yet Started
+* Arcadia 19 - Not yet Started
+* Arcadia 20 - Not yet Started
+* Arcadia 21 - Not yet Started
+* Arcadia 22 - Not yet Started
+* Arcadia 23 - Not yet Started
