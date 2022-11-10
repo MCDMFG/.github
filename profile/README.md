@@ -13,7 +13,7 @@
 * Arcadia 13 - Ready to Submit. Needs Cover PSD
 * Arcadia 14 - Ready to submit. Needs Cover PSD
 * Arcadia 15 - Ready to submit. Needs Cover PSD
-* Arcadia 16 - Not yet Started
+* Arcadia 16 - Ready to submit. Needs Cover PSD
 * Arcadia 17 - Not yet Started
 * Arcadia 18 - Not yet Started
 * Arcadia 19 - Not yet Started
