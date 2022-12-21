@@ -16,8 +16,8 @@
 * Arcadia 16 - Submitted
 * Arcadia 17 - Submitted
 * Arcadia 18 - Submitted
-* Arcadia 19 - Not yet Started
-* Arcadia 20 - Not yet Started
+* Arcadia 19 - Submitted
+* Arcadia 20 - Player module done. Started on GM module
 * Arcadia 21 - Not yet Started
 * Arcadia 22 - Not yet Started
 * Arcadia 23 - Not yet Started
